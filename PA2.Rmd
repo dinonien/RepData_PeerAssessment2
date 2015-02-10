@@ -15,7 +15,7 @@ The results show that most injuries are caused by Tornados and most casulties by
 
 ## Requirements
 Please make sure you have data.table, ggplot2 and dplyr package loaded
-```{r, eval=TRUE}
+```{r, eval=TRUE, warning=FALSE}
 library(data.table)
 library(dplyr)
 library(ggplot2)

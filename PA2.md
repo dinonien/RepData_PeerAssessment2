@@ -204,7 +204,7 @@ qplot(x=EV, y=value, fill=variable,
             position = position_dodge(width=1)) + coord_flip()
 ```
 
-![](./PA2_files/figure-html/unnamed-chunk-4-1.png) 
+![](PA2_files/figure-html/unnamed-chunk-4-1.png) 
 
 
 ###Top 10 Crop Damage Severe Weather Events
@@ -236,7 +236,7 @@ qplot(x=EV, y=value, fill=variable,
                        position="dodge")  +  coord_flip()
 ```
 
-![](./PA2_files/figure-html/unnamed-chunk-6-1.png) 
+![](PA2_files/figure-html/unnamed-chunk-6-1.png) 
 
 
 ###Top 10 Property Damage Severe Weather Events 
@@ -268,4 +268,4 @@ qplot(x=EV, y=value, fill=variable,
                        position="dodge")  +  coord_flip()
 ```
 
-![](./PA2_files/figure-html/unnamed-chunk-8-1.png) 
+![](PA2_files/figure-html/unnamed-chunk-8-1.png) 
